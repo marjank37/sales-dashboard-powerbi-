@@ -48,7 +48,7 @@ The dataset used in this project is included in the repository for demonstration
  alt="image" src="https://github.com/user-attachments/assets/cb68c7a2-e208-4d07-bfcf-7580564c1cbd" />
 
 ## Dashboard
-![Dashboard](photo_5933673770025421572_y.jpg)
+![Dashboard]
 
 ## Data Model
 ![Data Model](photo_5933673770025421572_y.jpg)
