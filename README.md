@@ -52,3 +52,10 @@ The dataset used in this project is included in the repository for demonstration
 
 ## Data Model
 ![Data Model](photo_5933673770025421572_y.jpg)
+
+
+## Business Insights
+
+- Sales vary across months (seasonal trend)
+- Some distributors have higher contribution
+- Product performance is different across categories
